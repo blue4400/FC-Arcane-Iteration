@@ -1,0 +1,108 @@
+Mods list:
+minecraft - Minecraft - 1.12.2
+mcp - Minecraft Coder Pack - 9.42
+FML - Forge Mod Loader - 8.0.99.99
+forge - Minecraft Forge - 14.23.5.2854
+ivtoolkit - IvToolkit - 1.3.3-1.12
+smoothfontcore - Smooth Font Core - mc1.12.2-2.1.2
+biometweakercore - BiomeTweakerCore - 1.0.39
+foamfixcore - FoamFixCore - 7.7.4
+smoothfont - Smooth Font - mc1.12.2-2.1.2
+rpghud - RPG-Hud - 3.8.1
+additional_lights - Additional Lights - 1.12.2-1.2.1.2
+ambience - Ambience Mod - Extras - 1.7.8
+jei - Just Enough Items - 4.16.1.301
+appleskin - AppleSkin - 1.0.14
+autoreglib - AutoRegLib - 1.3-32
+crafttweaker - CraftTweaker2 - 4.1.20
+base - B.A.S.E - 3.13.0
+baubles - Baubles - 1.5.2
+baubleshud - Baubles-Hud - 5.0.2
+bibliocraft - BiblioCraft - 2.4.5
+biometweaker - BiomeTweaker - 3.2.369
+blockcraftery - Blockcraftery - 1.12.2-1.3.1
+bloodmoon - Bloodmoon - 1.5.3
+blur - Blur - 1.0.4-14
+bookshelf - Bookshelf - 2.3.590
+buildinggadgets - Building Gadgets - 2.8.4
+capsule - Capsule - 1.12.2-3.3.11
+cavern - Cavern II - 2.3.1
+ctm - CTM - MC1.12.2-1.0.2.31
+chisel - Chisel - MC1.12.2-1.0.2.45
+clumps - Clumps - 3.1.2
+gamestages - Game Stages - 2.0.123
+reskillable - Reskillable - 1.12.2-1.13.0
+compatskills - CompatSkills - 1.12.2-1.17.0
+contenttweaker - ContentTweaker - 1.12.2-4.9.1
+controlling - Controlling - 3.0.10
+customnpcs - CustomNPCs - 1.12
+custommodel - Custom Player Model - 1.1.0-forge-mc1.12.2
+ctgui - CT-GUI - 1.0.0
+crafttweakerjei - CraftTweaker JEI Support - 2.0.3
+customcursormod - Custom Cursor Mod - 1.2.2
+customloadingscreen - Custom Loading Screen - 1.12.2-1.4.1
+custommainmenu - Custom Main Menu - 2.0.9.1
+defaultoptions - Default Options - 9.2.8
+fairylights - Fairy Lights - 2.1.10
+fantasticlib - Fantastic Lib - 1.12.2.044
+fastbench - FastWorkbench - 1.7.3
+foamfix - FoamFix - 0.10.11-1.12.2
+forgelin - Shadowfacts' Forgelin - 1.8.4
+fxcontrol - FxControl - 0.1.14
+llibrary - LLibrary - 1.7.20
+iceandfire - Ice and Fire - 1.9.1
+incontrol - InControl - 3.9.18
+inventorytweaks - Inventory Tweaks - 1.63+release.109.220f184
+itlt - It's the little things - 1.0.3
+justenoughdimensions - Just Enough Dimensions - 1.6.0-dev.20200416.184714
+effectinfo - Just Enough Effects - 1.0.3
+librarianlib - LibrarianLib - 4.22
+lockdown - Lockdown - 1.0
+loreexpansion - Lore Expansion - 1.12-1.1.7-13
+psi - Psi - r1.1-78
+magipsi - Magical Psi - 1.3
+mantle - Mantle - 1.12-1.3.3.55
+metallurgy - Metallurgy 4: Reforged - 1.2.4
+mightyarchitect - The Mighty Architect - 0.3.0
+moarsigns - MoarSigns - 6.0.0.11
+mobstages - Mob Stages - 2.0.8
+modularmachinery - Modular Machinery - 1.11.1
+modularaugment - Modular Augment - 1.1.1
+moreoverlays - MoreOverlays - 1.15.1
+mousetweaks - Mouse Tweaks - 2.10
+mowziesmobs - Mowzie's Mobs - 1.5.8
+multiblockmobs - Malek's Multiblock Mobs - 1.0
+ordinarycoins - Ordinary Coins - 1.5
+overpoweredarmorbar - Overpowered Armor Bar - 0.3.2
+perfectspawn - Perfect Spawn - 2.1
+pillar - Pillar - 1.2-10
+placebo - Placebo - 1.6.0
+potioncore - Potion Core - 1.9_for_1.12.2
+potiondescriptions - Potion Descriptions - 1.2.3
+potionfingers - Potion Fingers - r1.0-8
+pmmo - Project MMO - 1.12.2
+realdrops - Realistic Item Drops - 1.2.14
+reccomplex - Recurrent Complex - 1.4.8.2
+requious - Requious Frakto - 1.0
+resourceloader - Resource Loader - 1.5.3
+rotm - Rebirth of the Mobs - 1.1.2
+rspcompat - Reskillable PSI Compat - 1.2.2
+silentlib - Silent Lib - 3.0.13
+scalinghealth - Scaling Health - 1.3.37
+scalingwealth - Scaling Wealth - 1.0.1
+scavenge - Scavenge - 1.8
+scavenge_timing - Scavenge Timing - 1.12.2-1.0
+setbonus - Set Bonus - 1.12.2.020
+spartanweaponry - Spartan Weaponry - beta 1.3.8
+spartanfire - Spartan Fire - 0.08
+stg - SwingThroughGrass - 1.12.2-1.2.3
+toastcontrol - Toast Control - 1.8.1
+toughnessbar - Toughness bar - @VERSION@
+xat - Trinkets and Baubles - 0.30
+vanillafix - VanillaFix - 1.0.10-150
+waystones - Waystones - 4.1.0
+wizardry - Wizardry - 0.11.1
+worldedit - WorldEdit - 6.1.10
+reauth - ReAuth - 3.6.0
+librarianliblate - LibrarianLib Stage 2 - 4.22
+mysticallib - Mystical Lib - 1.12.2-1.9.0
