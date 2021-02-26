@@ -1,0 +1,1596 @@
+{
+	"spartanweaponry:dagger_stone": {
+		"combat": 5,
+		"agility": 5
+	},
+	"spartanweaponry:longsword_stone" : {
+		"combat": 5,
+		"endurance": 5
+	},
+	"spartanweaponry:saber_stone" : {
+		"combat": 5
+	},
+	"spartanweaponry:rapier_stone": {
+		"combat": 5,
+		"agility": 5
+	},
+	"spartanweaponry:pike_stone": {
+		"combat": 5,
+		"endurance": 5
+	},
+	"spartanweaponry:lance_stone": {
+		"combat": 5
+	},
+	"spartanweaponry:throwing_knife_stone": {
+		"combat": 5
+	},
+	"spartanweaponry:throwing_axe_stone": {
+		"combat": 5
+	},
+	"spartanweaponry:javelin_stone": {
+		"combat": 5
+	},
+	"spartanweaponry:boomerang_stone": {
+		"combat": 5
+	},
+	"spartanweaponry:battleaxe_stone": {
+		"combat": 5,
+		"endurance": 5
+	},
+	"spartanweaponry:mace_stone": {
+		"combat": 5
+	},
+	"spartanweaponry:glaive_stone": {
+		"combat": 5,
+		"endurance": 5
+	},
+	"spartanweaponry:staff_stone": {
+		"combat": 5,
+		"agility": 5
+	},
+	"spartanweaponry:greatsword_stone": {
+		"combat": 5,
+		"endurance": 5
+	},
+	"spartanweaponry:hammer_stone": {
+		"combat": 5
+	},
+	"spartanweaponry:warhammer_stone": {
+		"combat": 5,
+		"endurance": 5
+	},
+	"spartanweaponry:spear_stone": {
+		"combat": 5
+	},
+	"spartanweaponry:halberd_stone": {
+		"combat": 5,
+		"endurance": 5
+	},
+	"spartanweaponry:katana_stone": {
+		"combat": 5,
+		"endurance": 5
+	},
+	"spartanweaponry:dagger_iron": {
+		"combat": 15,
+		"agility": 15
+	},
+	"spartanweaponry:longsword_iron" : {
+		"combat": 15,
+		"endurance": 15
+	},
+	"spartanweaponry:saber_iron" : {
+		"combat": 15
+	},
+	"spartanweaponry:rapier_iron": {
+		"combat": 15,
+		"agility": 15
+	},
+	"spartanweaponry:pike_iron": {
+		"combat": 15,
+		"endurance": 15
+	},
+	"spartanweaponry:lance_iron": {
+		"combat": 15
+	},
+	"spartanweaponry:throwing_knife_iron": {
+		"combat": 15
+	},
+	"spartanweaponry:throwing_axe_iron": {
+		"combat": 15
+	},
+	"spartanweaponry:javelin_iron": {
+		"combat": 15
+	},
+	"spartanweaponry:boomerang_iron": {
+		"combat": 15
+	},
+	"spartanweaponry:battleaxe_iron": {
+		"combat": 15,
+		"endurance": 15
+	},
+	"spartanweaponry:mace_iron": {
+		"combat": 15
+	},
+	"spartanweaponry:glaive_iron": {
+		"combat": 15,
+		"endurance": 15
+	},
+	"spartanweaponry:staff_iron": {
+		"combat": 15,
+		"agility": 15
+	},
+	"spartanweaponry:greatsword_iron": {
+		"combat": 15,
+		"endurance": 15
+	},
+	"spartanweaponry:hammer_iron": {
+		"combat": 15
+	},
+	"spartanweaponry:warhammer_iron": {
+		"combat": 15,
+		"endurance": 15
+	},
+	"spartanweaponry:spear_iron": {
+		"combat": 15
+	},
+	"spartanweaponry:halberd_iron": {
+		"combat": 15,
+		"endurance": 15
+	},
+	"spartanweaponry:katana_iron": {
+		"combat": 15,
+		"endurance": 15
+	},
+	"spartanweaponry:dagger_gold": {
+		"combat": 12,
+		"agility": 12
+	},
+	"spartanweaponry:longsword_gold" : {
+		"combat": 12,
+		"endurance": 12
+	},
+	"spartanweaponry:saber_gold" : {
+		"combat": 12
+	},
+	"spartanweaponry:rapier_gold": {
+		"combat": 12,
+		"agility": 12
+	},
+	"spartanweaponry:pike_gold": {
+		"combat": 12,
+		"endurance": 12
+	},
+	"spartanweaponry:lance_gold": {
+		"combat": 12
+	},
+	"spartanweaponry:throwing_knife_gold": {
+		"combat": 12
+	},
+	"spartanweaponry:throwing_axe_gold": {
+		"combat": 12
+	},
+	"spartanweaponry:javelin_gold": {
+		"combat": 12
+	},
+	"spartanweaponry:boomerang_gold": {
+		"combat": 12
+	},
+	"spartanweaponry:battleaxe_gold": {
+		"combat": 12,
+		"endurance": 12
+	},
+	"spartanweaponry:mace_gold": {
+		"combat": 12
+	},
+	"spartanweaponry:glaive_gold": {
+		"combat": 12,
+		"endurance": 12
+	},
+	"spartanweaponry:staff_gold": {
+		"combat": 12,
+		"agility": 12
+	},
+	"spartanweaponry:greatsword_gold": {
+		"combat": 12,
+		"endurance": 12
+	},
+	"spartanweaponry:hammer_gold": {
+		"combat": 12
+	},
+	"spartanweaponry:warhammer_gold": {
+		"combat": 12,
+		"endurance": 12
+	},
+	"spartanweaponry:spear_gold": {
+		"combat": 12
+	},
+	"spartanweaponry:halberd_gold": {
+		"combat": 12,
+		"endurance": 12
+	},
+	"spartanweaponry:katana_gold": {
+		"combat": 12,
+		"endurance": 12
+	},
+	"spartanweaponry:dagger_diamond": {
+		"combat": 28,
+		"agility": 28
+	},
+	"spartanweaponry:longsword_diamond" : {
+		"combat": 28,
+		"endurance": 28
+	},
+	"spartanweaponry:saber_diamond" : {
+		"combat": 28
+	},
+	"spartanweaponry:rapier_diamond": {
+		"combat": 28,
+		"agility": 28
+	},
+	"spartanweaponry:pike_diamond": {
+		"combat": 28,
+		"endurance": 28
+	},
+	"spartanweaponry:lance_diamond": {
+		"combat": 28
+	},
+	"spartanweaponry:throwing_knife_diamond": {
+		"combat": 28
+	},
+	"spartanweaponry:throwing_axe_diamond": {
+		"combat": 28
+	},
+	"spartanweaponry:javelin_diamond": {
+		"combat": 28
+	},
+	"spartanweaponry:boomerang_diamond": {
+		"combat": 28
+	},
+	"spartanweaponry:battleaxe_diamond": {
+		"combat": 28,
+		"endurance": 28
+	},
+	"spartanweaponry:mace_diamond": {
+		"combat": 28
+	},
+	"spartanweaponry:glaive_diamond": {
+		"combat": 28,
+		"endurance": 28
+	},
+	"spartanweaponry:staff_diamond": {
+		"combat": 28,
+		"agility": 28
+	},
+	"spartanweaponry:greatsword_diamond": {
+		"combat": 28,
+		"endurance": 28
+	},
+	"spartanweaponry:hammer_diamond": {
+		"combat": 28
+	},
+	"spartanweaponry:warhammer_diamond": {
+		"combat": 28,
+		"endurance": 28
+	},
+	"spartanweaponry:spear_diamond": {
+		"combat": 28
+	},
+	"spartanweaponry:halberd_diamond": {
+		"combat": 28,
+		"endurance": 28
+	},
+	"spartanweaponry:katana_diamond": {
+		"combat": 28,
+		"endurance": 28
+	},
+	"spartanweaponry:dagger_copper": {
+		"combat": 10,
+		"agility": 10
+	},
+	"spartanweaponry:longsword_copper" : {
+		"combat": 10,
+		"endurance": 10
+	},
+	"spartanweaponry:saber_copper" : {
+		"combat": 10
+	},
+	"spartanweaponry:rapier_copper": {
+		"combat": 10,
+		"agility": 10
+	},
+	"spartanweaponry:pike_copper": {
+		"combat": 10,
+		"endurance": 10
+	},
+	"spartanweaponry:lance_copper": {
+		"combat": 10
+	},
+	"spartanweaponry:throwing_knife_copper": {
+		"combat": 10
+	},
+	"spartanweaponry:throwing_axe_copper": {
+		"combat": 10
+	},
+	"spartanweaponry:javelin_copper": {
+		"combat": 10
+	},
+	"spartanweaponry:boomerang_copper": {
+		"combat": 10
+	},
+	"spartanweaponry:battleaxe_copper": {
+		"combat": 10,
+		"endurance": 10
+	},
+	"spartanweaponry:mace_copper": {
+		"combat": 10
+	},
+	"spartanweaponry:glaive_copper": {
+		"combat": 10,
+		"endurance": 10
+	},
+	"spartanweaponry:staff_copper": {
+		"combat": 10,
+		"agility": 10
+	},
+	"spartanweaponry:greatsword_copper": {
+		"combat": 10,
+		"endurance": 10
+	},
+	"spartanweaponry:hammer_copper": {
+		"combat": 10
+	},
+	"spartanweaponry:warhammer_copper": {
+		"combat": 10,
+		"endurance": 10
+	},
+	"spartanweaponry:spear_copper": {
+		"combat": 10
+	},
+	"spartanweaponry:halberd_copper": {
+		"combat": 10,
+		"endurance": 10
+	},
+	"spartanweaponry:katana_copper": {
+		"combat": 10,
+		"endurance": 10
+	},
+	"spartanweaponry:dagger_tin": {
+		"combat": 12,
+		"agility": 12
+	},
+	"spartanweaponry:longsword_tin" : {
+		"combat": 12,
+		"endurance": 12
+	},
+	"spartanweaponry:saber_tin" : {
+		"combat": 12
+	},
+	"spartanweaponry:rapier_tin": {
+		"combat": 12,
+		"agility": 12
+	},
+	"spartanweaponry:pike_tin": {
+		"combat": 12,
+		"endurance": 12
+	},
+	"spartanweaponry:lance_tin": {
+		"combat": 12
+	},
+	"spartanweaponry:throwing_knife_tin": {
+		"combat": 12
+	},
+	"spartanweaponry:throwing_axe_tin": {
+		"combat": 12
+	},
+	"spartanweaponry:javelin_tin": {
+		"combat": 12
+	},
+	"spartanweaponry:boomerang_tin": {
+		"combat": 12
+	},
+	"spartanweaponry:battleaxe_tin": {
+		"combat": 12,
+		"endurance": 12
+	},
+	"spartanweaponry:mace_tin": {
+		"combat": 12
+	},
+	"spartanweaponry:glaive_tin": {
+		"combat": 12,
+		"endurance": 12
+	},
+	"spartanweaponry:staff_tin": {
+		"combat": 12,
+		"agility": 12
+	},
+	"spartanweaponry:greatsword_tin": {
+		"combat": 12,
+		"endurance": 12
+	},
+	"spartanweaponry:hammer_tin": {
+		"combat": 12
+	},
+	"spartanweaponry:warhammer_tin": {
+		"combat": 12,
+		"endurance": 12
+	},
+	"spartanweaponry:spear_tin": {
+		"combat": 12
+	},
+	"spartanweaponry:halberd_tin": {
+		"combat": 12,
+		"endurance": 12
+	},
+	"spartanweaponry:katana_tin": {
+		"combat": 12,
+		"endurance": 12
+	},
+	"spartanweaponry:dagger_bronze": {
+		"combat": 18,
+		"agility": 18
+	},
+	"spartanweaponry:longsword_bronze" : {
+		"combat": 18,
+		"endurance": 18
+	},
+	"spartanweaponry:saber_bronze" : {
+		"combat": 18
+	},
+	"spartanweaponry:rapier_bronze": {
+		"combat": 18,
+		"agility": 18
+	},
+	"spartanweaponry:pike_bronze": {
+		"combat": 18,
+		"endurance": 18
+	},
+	"spartanweaponry:lance_bronze": {
+		"combat": 18
+	},
+	"spartanweaponry:throwing_knife_bronze": {
+		"combat": 18
+	},
+	"spartanweaponry:throwing_axe_bronze": {
+		"combat": 18
+	},
+	"spartanweaponry:javelin_bronze": {
+		"combat": 18
+	},
+	"spartanweaponry:boomerang_bronze": {
+		"combat": 18
+	},
+	"spartanweaponry:battleaxe_bronze": {
+		"combat": 18,
+		"endurance": 18
+	},
+	"spartanweaponry:mace_bronze": {
+		"combat": 18
+	},
+	"spartanweaponry:glaive_bronze": {
+		"combat": 18,
+		"endurance": 18
+	},
+	"spartanweaponry:staff_bronze": {
+		"combat": 18,
+		"agility": 18
+	},
+	"spartanweaponry:greatsword_bronze": {
+		"combat": 18,
+		"endurance": 18
+	},
+	"spartanweaponry:hammer_bronze": {
+		"combat": 18
+	},
+	"spartanweaponry:warhammer_bronze": {
+		"combat": 18,
+		"endurance": 18
+	},
+	"spartanweaponry:spear_bronze": {
+		"combat": 18
+	},
+	"spartanweaponry:halberd_bronze": {
+		"combat": 18,
+		"endurance": 18
+	},
+	"spartanweaponry:katana_bronze": {
+		"combat": 18,
+		"endurance": 18
+	},
+	"spartanweaponry:dagger_silver": {
+		"combat": 25,
+		"agility": 25
+	},
+	"spartanweaponry:longsword_silver" : {
+		"combat": 25,
+		"endurance": 25
+	},
+	"spartanweaponry:saber_silver" : {
+		"combat": 25
+	},
+	"spartanweaponry:rapier_silver": {
+		"combat": 25,
+		"agility": 25
+	},
+	"spartanweaponry:pike_silver": {
+		"combat": 25,
+		"endurance": 25
+	},
+	"spartanweaponry:lance_silver": {
+		"combat": 25
+	},
+	"spartanweaponry:throwing_knife_silver": {
+		"combat": 25
+	},
+	"spartanweaponry:throwing_axe_silver": {
+		"combat": 25
+	},
+	"spartanweaponry:javelin_silver": {
+		"combat": 25
+	},
+	"spartanweaponry:boomerang_silver": {
+		"combat": 25
+	},
+	"spartanweaponry:battleaxe_silver": {
+		"combat": 25,
+		"endurance": 25
+	},
+	"spartanweaponry:mace_silver": {
+		"combat": 25
+	},
+	"spartanweaponry:glaive_silver": {
+		"combat": 25,
+		"endurance": 25
+	},
+	"spartanweaponry:staff_silver": {
+		"combat": 25,
+		"agility": 25
+	},
+	"spartanweaponry:greatsword_silver": {
+		"combat": 25,
+		"endurance": 25
+	},
+	"spartanweaponry:hammer_silver": {
+		"combat": 25
+	},
+	"spartanweaponry:warhammer_silver": {
+		"combat": 25,
+		"endurance": 25
+	},
+	"spartanweaponry:spear_silver": {
+		"combat": 25
+	},
+	"spartanweaponry:halberd_silver": {
+		"combat": 25,
+		"endurance": 25
+	},
+	"spartanweaponry:katana_silver": {
+		"combat": 25,
+		"endurance": 25
+	},
+	"spartanweaponry:dagger_electrum": {
+		"combat": 25,
+		"agility": 25
+	},
+	"spartanweaponry:longsword_electrum" : {
+		"combat": 25,
+		"endurance": 25
+	},
+	"spartanweaponry:saber_electrum" : {
+		"combat": 25
+	},
+	"spartanweaponry:rapier_electrum": {
+		"combat": 25,
+		"agility": 25
+	},
+	"spartanweaponry:pike_electrum": {
+		"combat": 25,
+		"endurance": 25
+	},
+	"spartanweaponry:lance_electrum": {
+		"combat": 25
+	},
+	"spartanweaponry:throwing_knife_electrum": {
+		"combat": 25
+	},
+	"spartanweaponry:throwing_axe_electrum": {
+		"combat": 25
+	},
+	"spartanweaponry:javelin_electrum": {
+		"combat": 25
+	},
+	"spartanweaponry:boomerang_electrum": {
+		"combat": 25
+	},
+	"spartanweaponry:battleaxe_electrum": {
+		"combat": 25,
+		"endurance": 25
+	},
+	"spartanweaponry:mace_electrum": {
+		"combat": 25
+	},
+	"spartanweaponry:glaive_electrum": {
+		"combat": 25,
+		"endurance": 25
+	},
+	"spartanweaponry:staff_electrum": {
+		"combat": 25,
+		"agility": 25
+	},
+	"spartanweaponry:greatsword_electrum": {
+		"combat": 25,
+		"endurance": 25
+	},
+	"spartanweaponry:hammer_electrum": {
+		"combat": 25
+	},
+	"spartanweaponry:warhammer_electrum": {
+		"combat": 25,
+		"endurance": 25
+	},
+	"spartanweaponry:spear_electrum": {
+		"combat": 25
+	},
+	"spartanweaponry:halberd_electrum": {
+		"combat": 25,
+		"endurance": 25
+	},
+	"spartanweaponry:katana_electrum": {
+		"combat": 25,
+		"endurance": 25
+	},
+	"spartanweaponry:dagger_nickel": {
+		"combat": 15,
+		"agility": 15
+	},
+	"spartanweaponry:longsword_nickel" : {
+		"combat": 15,
+		"endurance": 15
+	},
+	"spartanweaponry:saber_nickel" : {
+		"combat": 15
+	},
+	"spartanweaponry:rapier_nickel": {
+		"combat": 15,
+		"agility": 15
+	},
+	"spartanweaponry:pike_nickel": {
+		"combat": 15,
+		"endurance": 15
+	},
+	"spartanweaponry:lance_nickel": {
+		"combat": 15
+	},
+	"spartanweaponry:throwing_knife_nickel": {
+		"combat": 15
+	},
+	"spartanweaponry:throwing_axe_nickel": {
+		"combat": 15
+	},
+	"spartanweaponry:javelin_nickel": {
+		"combat": 15
+	},
+	"spartanweaponry:boomerang_nickel": {
+		"combat": 15
+	},
+	"spartanweaponry:battleaxe_nickel": {
+		"combat": 15,
+		"endurance": 15
+	},
+	"spartanweaponry:mace_nickel": {
+		"combat": 15
+	},
+	"spartanweaponry:glaive_nickel": {
+		"combat": 15,
+		"endurance": 15
+	},
+	"spartanweaponry:staff_nickel": {
+		"combat": 15,
+		"agility": 15
+	},
+	"spartanweaponry:greatsword_nickel": {
+		"combat": 15,
+		"endurance": 15
+	},
+	"spartanweaponry:hammer_nickel": {
+		"combat": 15
+	},
+	"spartanweaponry:warhammer_nickel": {
+		"combat": 15,
+		"endurance": 15
+	},
+	"spartanweaponry:spear_nickel": {
+		"combat": 15
+	},
+	"spartanweaponry:halberd_nickel": {
+		"combat": 15,
+		"endurance": 15
+	},
+	"spartanweaponry:dagger_lead": {
+		"combat": 15,
+		"agility": 15
+	},
+	"spartanweaponry:longsword_lead" : {
+		"combat": 15,
+		"endurance": 15
+	},
+	"spartanweaponry:saber_lead" : {
+		"combat": 15
+	},
+	"spartanweaponry:rapier_lead": {
+		"combat": 15,
+		"agility": 15
+	},
+	"spartanweaponry:pike_lead": {
+		"combat": 15,
+		"endurance": 15
+	},
+	"spartanweaponry:lance_lead": {
+		"combat": 15
+	},
+	"spartanweaponry:throwing_knife_lead": {
+		"combat": 15
+	},
+	"spartanweaponry:throwing_axe_lead": {
+		"combat": 15
+	},
+	"spartanweaponry:javelin_lead": {
+		"combat": 15
+	},
+	"spartanweaponry:boomerang_lead": {
+		"combat": 15
+	},
+	"spartanweaponry:battleaxe_lead": {
+		"combat": 15,
+		"endurance": 15
+	},
+	"spartanweaponry:mace_lead": {
+		"combat": 15
+	},
+	"spartanweaponry:glaive_lead": {
+		"combat": 15,
+		"endurance": 15
+	},
+	"spartanweaponry:staff_lead": {
+		"combat": 15,
+		"agility": 15
+	},
+	"spartanweaponry:greatsword_lead": {
+		"combat": 15,
+		"endurance": 15
+	},
+	"spartanweaponry:hammer_lead": {
+		"combat": 15
+	},
+	"spartanweaponry:warhammer_lead": {
+		"combat": 15,
+		"endurance": 15
+	},
+	"spartanweaponry:spear_lead": {
+		"combat": 15
+	},
+	"spartanweaponry:halberd_lead": {
+		"combat": 15,
+		"endurance": 15
+	},
+	"spartanfire:dagger_dragonbone": {
+		"combat": 35,
+		"agility": 35
+	},
+	"spartanfire:longsword_dragonbone" : {
+		"combat": 35,
+		"endurance": 35
+	},
+	"spartanfire:saber_dragonbone" : {
+		"combat": 35
+	},
+	"spartanfire:rapier_dragonbone": {
+		"combat": 35,
+		"agility": 35
+	},
+	"spartanfire:pike_dragonbone": {
+		"combat": 35,
+		"endurance": 35
+	},
+	"spartanfire:lance_dragonbone": {
+		"combat": 35
+	},
+	"spartanfire:throwing_knife_dragonbone": {
+		"combat": 35
+	},
+	"spartanfire:throwing_axe_dragonbone": {
+		"combat": 35
+	},
+	"spartanfire:javelin_dragonbone": {
+		"combat": 35
+	},
+	"spartanfire:boomerang_dragonbone": {
+		"combat": 35
+	},
+	"spartanfire:battleaxe_dragonbone": {
+		"combat": 35,
+		"endurance": 35
+	},
+	"spartanfire:mace_dragonbone": {
+		"combat": 35
+	},
+	"spartanfire:glaive_dragonbone": {
+		"combat": 35,
+		"endurance": 35
+	},
+	"spartanfire:staff_dragonbone": {
+		"combat": 35,
+		"agility": 35
+	},
+	"spartanfire:greatsword_dragonbone": {
+		"combat": 35,
+		"endurance": 35
+	},
+	"spartanfire:hammer_dragonbone": {
+		"combat": 35
+	},
+	"spartanfire:warhammer_dragonbone": {
+		"combat": 35,
+		"endurance": 35
+	},
+	"spartanfire:spear_dragonbone": {
+		"combat": 35
+	},
+	"spartanfire:halberd_dragonbone": {
+		"combat": 35,
+		"endurance": 35
+	},
+	"spartanfire:dagger_fire_dragonbone": {
+		"combat": 45,
+		"agility": 45
+	},
+	"spartanfire:longsword_fire_dragonbone" : {
+		"combat": 45,
+		"endurance": 45
+	},
+	"spartanfire:saber_fire_dragonbone" : {
+		"combat": 45
+	},
+	"spartanfire:rapier_fire_dragonbone": {
+		"combat": 45,
+		"agility": 45
+	},
+	"spartanfire:pike_fire_dragonbone": {
+		"combat": 45,
+		"endurance": 45
+	},
+	"spartanfire:lance_fire_dragonbone": {
+		"combat": 45
+	},
+	"spartanfire:throwing_knife_fire_dragonbone": {
+		"combat": 45
+	},
+	"spartanfire:throwing_axe_fire_dragonbone": {
+		"combat": 45
+	},
+	"spartanfire:javelin_fire_dragonbone": {
+		"combat": 45
+	},
+	"spartanfire:boomerang_fire_dragonbone": {
+		"combat": 45
+	},
+	"spartanfire:battleaxe_fire_dragonbone": {
+		"combat": 45,
+		"endurance": 45
+	},
+	"spartanfire:mace_fire_dragonbone": {
+		"combat": 45
+	},
+	"spartanfire:glaive_fire_dragonbone": {
+		"combat": 45,
+		"endurance": 45
+	},
+	"spartanfire:staff_fire_dragonbone": {
+		"combat": 45,
+		"agility": 45
+	},
+	"spartanfire:greatsword_fire_dragonbone": {
+		"combat": 45,
+		"endurance": 45
+	},
+	"spartanfire:hammer_fire_dragonbone": {
+		"combat": 45
+	},
+	"spartanfire:warhammer_fire_dragonbone": {
+		"combat": 45,
+		"endurance": 45
+	},
+	"spartanfire:spear_fire_dragonbone": {
+		"combat": 45
+	},
+	"spartanfire:halberd_fire_dragonbone": {
+		"combat": 45,
+		"endurance": 45
+	},
+	"spartanfire:dagger_ice_dragonbone": {
+		"combat": 45,
+		"agility": 45
+	},
+	"spartanfire:longsword_ice_dragonbone" : {
+		"combat": 45,
+		"endurance": 45
+	},
+	"spartanfire:saber_ice_dragonbone" : {
+		"combat": 45
+	},
+	"spartanfire:rapier_ice_dragonbone": {
+		"combat": 45,
+		"agility": 45
+	},
+	"spartanfire:pike_ice_dragonbone": {
+		"combat": 45,
+		"endurance": 45
+	},
+	"spartanfire:lance_ice_dragonbone": {
+		"combat": 45
+	},
+	"spartanfire:throwing_knife_ice_dragonbone": {
+		"combat": 45
+	},
+	"spartanfire:throwing_axe_ice_dragonbone": {
+		"combat": 45
+	},
+	"spartanfire:javelin_ice_dragonbone": {
+		"combat": 45
+	},
+	"spartanfire:boomerang_ice_dragonbone": {
+		"combat": 45
+	},
+	"spartanfire:battleaxe_ice_dragonbone": {
+		"combat": 45,
+		"endurance": 45
+	},
+	"spartanfire:mace_ice_dragonbone": {
+		"combat": 45
+	},
+	"spartanfire:glaive_ice_dragonbone": {
+		"combat": 45,
+		"endurance": 45
+	},
+	"spartanfire:staff_ice_dragonbone": {
+		"combat": 45,
+		"agility": 45
+	},
+	"spartanfire:greatsword_ice_dragonbone": {
+		"combat": 45,
+		"endurance": 45
+	},
+	"spartanfire:hammer_ice_dragonbone": {
+		"combat": 45
+	},
+	"spartanfire:warhammer_ice_dragonbone": {
+		"combat": 45,
+		"endurance": 45
+	},
+	"spartanfire:spear_ice_dragonbone": {
+		"combat": 45
+	},
+	"spartanfire:halberd_ice_dragonbone": {
+		"combat": 45,
+		"endurance": 45
+	},
+	"spartanfire:dagger_jungle": {
+		"combat": 17,
+		"agility": 17
+	},
+	"spartanfire:longsword_jungle" : {
+		"combat": 17,
+		"endurance": 17
+	},
+	"spartanfire:saber_jungle" : {
+		"combat": 17
+	},
+	"spartanfire:rapier_jungle": {
+		"combat": 17,
+		"agility": 17
+	},
+	"spartanfire:pike_jungle": {
+		"combat": 17,
+		"endurance": 17
+	},
+	"spartanfire:lance_jungle": {
+		"combat": 17
+	},
+	"spartanfire:throwing_knife_jungle": {
+		"combat": 17
+	},
+	"spartanfire:throwing_axe_jungle": {
+		"combat": 17
+	},
+	"spartanfire:javelin_jungle": {
+		"combat": 17
+	},
+	"spartanfire:boomerang_jungle": {
+		"combat": 17
+	},
+	"spartanfire:battleaxe_jungle": {
+		"combat": 17,
+		"endurance": 17
+	},
+	"spartanfire:mace_jungle": {
+		"combat": 17
+	},
+	"spartanfire:glaive_jungle": {
+		"combat": 17,
+		"endurance": 17
+	},
+	"spartanfire:staff_jungle": {
+		"combat": 17,
+		"agility": 17
+	},
+	"spartanfire:greatsword_jungle": {
+		"combat": 17,
+		"endurance": 17
+	},
+	"spartanfire:hammer_jungle": {
+		"combat": 17
+	},
+	"spartanfire:warhammer_jungle": {
+		"combat": 17,
+		"endurance": 17
+	},
+	"spartanfire:spear_jungle": {
+		"combat": 17
+	},
+	"spartanfire:halberd_jungle": {
+		"combat": 17,
+		"endurance": 17
+	},
+	"spartanfire:dagger_desert": {
+		"combat": 17,
+		"agility": 17
+	},
+	"spartanfire:longsword_desert" : {
+		"combat": 17,
+		"endurance": 17
+	},
+	"spartanfire:saber_desert" : {
+		"combat": 17
+	},
+	"spartanfire:rapier_desert": {
+		"combat": 17,
+		"agility": 17
+	},
+	"spartanfire:pike_desert": {
+		"combat": 17,
+		"endurance": 17
+	},
+	"spartanfire:lance_desert": {
+		"combat": 17
+	},
+	"spartanfire:throwing_knife_desert": {
+		"combat": 17
+	},
+	"spartanfire:throwing_axe_desert": {
+		"combat": 17
+	},
+	"spartanfire:javelin_desert": {
+		"combat": 17
+	},
+	"spartanfire:boomerang_desert": {
+		"combat": 17
+	},
+	"spartanfire:battleaxe_desert": {
+		"combat": 17,
+		"endurance": 17
+	},
+	"spartanfire:mace_desert": {
+		"combat": 17
+	},
+	"spartanfire:glaive_desert": {
+		"combat": 17,
+		"endurance": 17
+	},
+	"spartanfire:staff_desert": {
+		"combat": 17,
+		"agility": 17
+	},
+	"spartanfire:greatsword_desert": {
+		"combat": 17,
+		"endurance": 17
+	},
+	"spartanfire:hammer_desert": {
+		"combat": 17
+	},
+	"spartanfire:warhammer_desert": {
+		"combat": 17,
+		"endurance": 17
+	},
+	"spartanfire:spear_desert": {
+		"combat": 17
+	},
+	"spartanfire:halberd_desert": {
+		"combat": 17,
+		"endurance": 17
+	},
+	"spartanfire:dagger_jungle_venom": {
+		"combat": 19,
+		"agility": 19
+	},
+	"spartanfire:longsword_jungle_venom" : {
+		"combat": 19,
+		"endurance": 19
+	},
+	"spartanfire:saber_jungle_venom" : {
+		"combat": 19
+	},
+	"spartanfire:rapier_jungle_venom": {
+		"combat": 19,
+		"agility": 19
+	},
+	"spartanfire:pike_jungle_venom": {
+		"combat": 19,
+		"endurance": 19
+	},
+	"spartanfire:lance_jungle_venom": {
+		"combat": 19
+	},
+	"spartanfire:throwing_knife_jungle_venom": {
+		"combat": 19
+	},
+	"spartanfire:throwing_axe_jungle_venom": {
+		"combat": 19
+	},
+	"spartanfire:javelin_jungle_venom": {
+		"combat": 19
+	},
+	"spartanfire:boomerang_jungle_venom": {
+		"combat": 19
+	},
+	"spartanfire:battleaxe_jungle_venom": {
+		"combat": 19,
+		"endurance": 19
+	},
+	"spartanfire:mace_jungle_venom": {
+		"combat": 19
+	},
+	"spartanfire:glaive_jungle_venom": {
+		"combat": 19,
+		"endurance": 19
+	},
+	"spartanfire:staff_jungle_venom": {
+		"combat": 19,
+		"agility": 19
+	},
+	"spartanfire:greatsword_jungle_venom": {
+		"combat": 19,
+		"endurance": 19
+	},
+	"spartanfire:hammer_jungle_venom": {
+		"combat": 19
+	},
+	"spartanfire:warhammer_jungle_venom": {
+		"combat": 19,
+		"endurance": 19
+	},
+	"spartanfire:spear_jungle_venom": {
+		"combat": 19
+	},
+	"spartanfire:halberd_jungle_venom": {
+		"combat": 19,
+		"endurance": 19
+	},
+	"spartanfire:dagger_desert_venom": {
+		"combat": 19,
+		"agility": 19
+	},
+	"spartanfire:longsword_desert_venom" : {
+		"combat": 19,
+		"endurance": 19
+	},
+	"spartanfire:saber_desert_venom" : {
+		"combat": 19
+	},
+	"spartanfire:rapier_desert_venom": {
+		"combat": 19,
+		"agility": 19
+	},
+	"spartanfire:pike_desert_venom": {
+		"combat": 19,
+		"endurance": 19
+	},
+	"spartanfire:lance_desert_venom": {
+		"combat": 19
+	},
+	"spartanfire:throwing_knife_desert_venom": {
+		"combat": 19
+	},
+	"spartanfire:throwing_axe_desert_venom": {
+		"combat": 19
+	},
+	"spartanfire:javelin_desert_venom": {
+		"combat": 19
+	},
+	"spartanfire:boomerang_desert_venom": {
+		"combat": 19
+	},
+	"spartanfire:battleaxe_desert_venom": {
+		"combat": 19,
+		"endurance": 19
+	},
+	"spartanfire:mace_desert_venom": {
+		"combat": 19
+	},
+	"spartanfire:glaive_desert_venom": {
+		"combat": 19,
+		"endurance": 19
+	},
+	"spartanfire:staff_desert_venom": {
+		"combat": 19,
+		"agility": 19
+	},
+	"spartanfire:greatsword_desert_venom": {
+		"combat": 19,
+		"endurance": 19
+	},
+	"spartanfire:hammer_desert_venom": {
+		"combat": 19
+	},
+	"spartanfire:warhammer_desert_venom": {
+		"combat": 19,
+		"endurance": 19
+	},
+	"spartanfire:spear_desert_venom": {
+		"combat": 19
+	},
+	"spartanfire:halberd_desert_venom": {
+		"combat": 19,
+		"endurance": 19
+	},
+	"spartanfire:dagger_fire_dragonsteel": {
+		"combat": 55,
+		"agility": 55
+	},
+	"spartanfire:longsword_fire_dragonsteel" : {
+		"combat": 55,
+		"endurance": 55
+	},
+	"spartanfire:saber_fire_dragonsteel" : {
+		"combat": 55
+	},
+	"spartanfire:rapier_fire_dragonsteel": {
+		"combat": 55,
+		"agility": 55
+	},
+	"spartanfire:pike_fire_dragonsteel": {
+		"combat": 55,
+		"endurance": 55
+	},
+	"spartanfire:lance_fire_dragonsteel": {
+		"combat": 55
+	},
+	"spartanfire:throwing_knife_fire_dragonsteel": {
+		"combat": 55
+	},
+	"spartanfire:throwing_axe_fire_dragonsteel": {
+		"combat": 55
+	},
+	"spartanfire:javelin_fire_dragonsteel": {
+		"combat": 55
+	},
+	"spartanfire:boomerang_fire_dragonsteel": {
+		"combat": 55
+	},
+	"spartanfire:battleaxe_fire_dragonsteel": {
+		"combat": 55,
+		"endurance": 55
+	},
+	"spartanfire:mace_fire_dragonsteel": {
+		"combat": 55
+	},
+	"spartanfire:glaive_fire_dragonsteel": {
+		"combat": 55,
+		"endurance": 55
+	},
+	"spartanfire:staff_fire_dragonsteel": {
+		"combat": 55,
+		"agility": 55
+	},
+	"spartanfire:greatsword_fire_dragonsteel": {
+		"combat": 55,
+		"endurance": 55
+	},
+	"spartanfire:hammer_fire_dragonsteel": {
+		"combat": 55
+	},
+	"spartanfire:warhammer_fire_dragonsteel": {
+		"combat": 55,
+		"endurance": 55
+	},
+	"spartanfire:spear_fire_dragonsteel": {
+		"combat": 55
+	},
+	"spartanfire:halberd_fire_dragonsteel": {
+		"combat": 55,
+		"endurance": 55
+	},
+	"spartanfire:dagger_ice_dragonsteel": {
+		"combat": 55,
+		"agility": 55
+	},
+	"spartanfire:longsword_ice_dragonsteel" : {
+		"combat": 55,
+		"endurance": 55
+	},
+	"spartanfire:saber_ice_dragonsteel" : {
+		"combat": 55
+	},
+	"spartanfire:rapier_ice_dragonsteel": {
+		"combat": 55,
+		"agility": 55
+	},
+	"spartanfire:pike_ice_dragonsteel": {
+		"combat": 55,
+		"endurance": 55
+	},
+	"spartanfire:lance_ice_dragonsteel": {
+		"combat": 55
+	},
+	"spartanfire:throwing_knife_ice_dragonsteel": {
+		"combat": 55
+	},
+	"spartanfire:throwing_axe_ice_dragonsteel": {
+		"combat": 55
+	},
+	"spartanfire:javelin_ice_dragonsteel": {
+		"combat": 55
+	},
+	"spartanfire:boomerang_ice_dragonsteel": {
+		"combat": 55
+	},
+	"spartanfire:battleaxe_ice_dragonsteel": {
+		"combat": 55,
+		"endurance": 55
+	},
+	"spartanfire:mace_ice_dragonsteel": {
+		"combat": 55
+	},
+	"spartanfire:glaive_ice_dragonsteel": {
+		"combat": 55,
+		"endurance": 55
+	},
+	"spartanfire:staff_ice_dragonsteel": {
+		"combat": 55,
+		"agility": 55
+	},
+	"spartanfire:greatsword_ice_dragonsteel": {
+		"combat": 55,
+		"endurance": 55
+	},
+	"spartanfire:hammer_ice_dragonsteel": {
+		"combat": 55
+	},
+	"spartanfire:warhammer_ice_dragonsteel": {
+		"combat": 55,
+		"endurance": 55
+	},
+	"spartanfire:spear_ice_dragonsteel": {
+		"combat": 55
+	},
+	"spartanfire:halberd_ice_dragonsteel": {
+		"combat": 55,
+		"endurance": 55
+	},
+	"spartanweaponry:dagger_steel": {
+		"combat": 20,
+		"agility": 20
+	},
+	"spartanweaponry:longsword_steel": {
+		"combat": 20,
+		"endurance": 20
+	},
+	"spartanweaponry:saber_steel": {
+		"combat": 20
+	},
+	"spartanweaponry:rapier_steel": {
+		"combat": 20,
+		"agility": 20
+	},
+	"spartanweaponry:pike_steel": {
+		"combat": 20,
+		"endurance": 20
+	},
+	"spartanweaponry:lance_steel": {
+		"combat": 20
+	},
+	"spartanweaponry:throwing_knife_steel": {
+		"combat": 20
+	},
+	"spartanweaponry:throwing_axe_steel": {
+		"combat": 20
+	},
+	"spartanweaponry:javelin_steel": {
+		"combat": 20
+	},
+	"spartanweaponry:boomerang_steel": {
+		"combat": 20
+	},
+	"spartanweaponry:battleaxe_steel": {
+		"combat": 20,
+		"endurance": 20
+	},
+	"spartanweaponry:mace_steel": {
+		"combat": 20
+	},
+	"spartanweaponry:glaive_steel": {
+		"combat": 20,
+		"endurance": 20
+	},
+	"spartanweaponry:staff_steel": {
+		"combat": 20,
+		"agility": 20
+	},
+	"spartanweaponry:greatsword_steel": {
+		"combat": 20,
+		"endurance": 20
+	},
+	"spartanweaponry:hammer_steel": {
+		"combat": 20
+	},
+	"spartanweaponry:warhammer_steel": {
+		"combat": 20,
+		"endurance": 20
+	},
+	"spartanweaponry:spear_steel": {
+		"combat": 20
+	},
+	"spartanweaponry:halberd_steel": {
+		"combat": 20,
+		"endurance": 20
+	},
+	"spartanweaponry:dagger_platinum": {
+		"combat": 30,
+		"agility": 30
+	},
+	"spartanweaponry:longsword_platinum" : {
+		"combat": 30,
+		"endurance": 30
+	},
+	"spartanweaponry:saber_platinum" : {
+		"combat": 30
+	},
+	"spartanweaponry:rapier_platinum": {
+		"combat": 30,
+		"agility": 30
+	},
+	"spartanweaponry:pike_platinum": {
+		"combat": 30,
+		"endurance": 30
+	},
+	"spartanweaponry:lance_platinum": {
+		"combat": 30
+	},
+	"spartanweaponry:throwing_knife_platinum": {
+		"combat": 30
+	},
+	"spartanweaponry:throwing_axe_platinum": {
+		"combat": 30
+	},
+	"spartanweaponry:javelin_platinum": {
+		"combat": 30
+	},
+	"spartanweaponry:boomerang_platinum": {
+		"combat": 30
+	},
+	"spartanweaponry:battleaxe_platinum": {
+		"combat": 30,
+		"endurance": 30
+	},
+	"spartanweaponry:mace_platinum": {
+		"combat": 30
+	},
+	"spartanweaponry:glaive_platinum": {
+		"combat": 30,
+		"endurance": 30
+	},
+	"spartanweaponry:staff_platinum": {
+		"combat": 30,
+		"agility": 30
+	},
+	"spartanweaponry:greatsword_platinum": {
+		"combat": 30,
+		"endurance": 30
+	},
+	"spartanweaponry:hammer_platinum": {
+		"combat": 30
+	},
+	"spartanweaponry:warhammer_platinum": {
+		"combat": 30,
+		"endurance": 30
+	},
+	"spartanweaponry:spear_platinum": {
+		"combat": 30
+	},
+	"spartanweaponry:halberd_platinum": {
+		"combat": 30,
+		"endurance": 30
+	},
+	"metallurgy:angmallen_sword": {
+		"combat": 5
+	},
+	"metallurgy:celenegil_sword": {
+		"combat": 5
+	},
+	"metallurgy:deep_iron_sword": {
+		"combat": 5
+	},
+	"metallurgy:kalendrite_sword": {
+		"combat": 5
+	},
+	"metallurgy:damascus_steel_sword": {
+		"combat": 15
+	},
+	"metallurgy:oureclase_sword": {
+		"combat": 15
+	},
+	"metallurgy:quicksilver_sword": {
+		"combat": 15
+	},
+	"metallurgy:midasium_sword": {
+		"combat": 15
+	},
+	"metallurgy:atlarus_sword": {
+		"combat": 15
+	},
+	"metallurgy:black_steel_sword": {
+		"combat": 15
+	},
+	"metallurgy:astral_silver_sword": {
+		"combat": 30
+	},
+	"metallurgy:ceruclase_sword": {
+		"combat": 30
+	},
+	"metallurgy:haderoth_sword": {
+		"combat": 30
+	},
+	"metallurgy:orichalcum_sword": {
+		"combat": 30
+	},
+	"metallurgy:vyroxeres_sword": {
+		"combat": 30
+	},
+	"metallurgy:krik_sword": {
+		"combat": 30
+	},
+	"metallurgy:sanguinite_sword": {
+		"combat": 50
+	},
+	"metallurgy:tartarite_sword": {
+		"combat": 50
+	},
+	"metallurgy:adamantine_sword": {
+		"combat": 50
+	},
+	"metallurgy:ignatius_sword": {
+		"combat": 50
+	},
+	"metallurgy:vulcanite_sword": {
+		"combat": 50
+	},
+	"metallurgy:inolashite_sword": {
+		"combat": 50
+	},
+	"metallurgy:mithril_sword": {
+		"combat": 50
+	},
+	"metallurgy:shadow_steel_sword": {
+		"combat": 50
+	},
+	"metallurgy:eximite_sword": {
+		"combat": 50
+	},
+	"metallurgy:desichalkos_sword": {
+		"combat": 80
+	},
+	"metallurgy:etherium_sword": {
+		"combat": 80
+	},
+	"metallurgy:amordrine_sword": {
+		"combat": 80
+	}
+}

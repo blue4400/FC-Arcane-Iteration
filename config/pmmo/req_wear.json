@@ -1,0 +1,450 @@
+{
+	"metallurgy:deep_iron_boots": {
+		"endurance": 5,
+		"agility": 5
+	},
+	"metallurgy:deep_iron_leggings": {
+		"endurance": 5,
+		"agility": 5
+	},
+	"metallurgy:deep_iron_chestplate": {
+		"endurance": 5,
+		"agility": 5
+	},
+	"metallurgy:deep_iron_helmet": {
+		"endurance": 5,
+		"agility": 5
+	},
+	"metallurgy:kalendrite_helmet": {
+		"endurance": 5,
+		"agility": 5
+	},
+	"metallurgy:kalendrite_chestplate": {
+		"endurance": 5,
+		"agility": 5
+	},
+	"metallurgy:kalendrite_leggings": {
+		"endurance": 5,
+		"agility": 5
+	},
+	"metallurgy:kalendrite_boots": {
+		"endurance": 5,
+		"agility": 5
+	},
+	"metallurgy:celenegil_boots": {
+		"endurance": 5,
+		"agility": 5
+	},
+	"metallurgy:angmallen_boots": {
+		"endurance": 5,
+		"agility": 5
+	},
+	"metallurgy:angmallen_leggings": {
+		"endurance": 5,
+		"agility": 5
+	},
+	"metallurgy:angmallen_chestplate": {
+		"endurance": 5,
+		"agility": 5
+	},
+	"metallurgy:angmallen_helmet": {
+		"endurance": 5,
+		"agility": 5
+	},
+	"metallurgy:celenegil_helmet": {
+		"endurance": 5,
+		"agility": 5
+	},
+	"metallurgy:celenegil_chestplate": {
+		"endurance": 5,
+		"agility": 5
+	},
+	"metallurgy:celenegil_leggings": {
+		"endurance": 5,
+		"agility": 5
+	},
+	"metallurgy:quicksilver_chestplate": {
+		"endurance": 15,
+		"agility": 15
+	},
+	"metallurgy:quicksilver_leggings": {
+		"endurance": 15,
+		"agility": 15
+	},
+	"metallurgy:quicksilver_boots": {
+		"endurance": 15,
+		"agility": 15
+	},
+	"metallurgy:oureclase_helmet": {
+		"endurance": 15,
+		"agility": 15
+	},
+	"metallurgy:oureclase_chestplate": {
+		"endurance": 15,
+		"agility": 15
+	},
+	"metallurgy:oureclase_leggings": {
+		"endurance": 15,
+		"agility": 15
+	},
+	"metallurgy:oureclase_boots": {
+		"endurance": 15,
+		"agility": 15
+	},
+	"metallurgy:quicksilver_helmet": {
+		"endurance": 15,
+		"agility": 15
+	},
+	"metallurgy:damascus_steel_boots": {
+		"endurance": 15,
+		"agility": 15
+	},
+	"metallurgy:damascus_steel_leggings": {
+		"endurance": 15,
+		"agility": 15
+	},
+	"metallurgy:damascus_steel_chestplate": {
+		"endurance": 15,
+		"agility": 15
+	},
+	"metallurgy:damascus_steel_helmet": {
+		"endurance": 15,
+		"agility": 15
+	},
+	"metallurgy:black_steel_chestplate": {
+		"endurance": 15,
+		"agility": 15
+	},
+	"metallurgy:black_steel_leggings": {
+		"endurance": 15,
+		"agility": 15
+	},
+	"metallurgy:black_steel_boots": {
+		"endurance": 15,
+		"agility": 15
+	},
+	"metallurgy:atlarus_helmet": {
+		"endurance": 15,
+		"agility": 15
+	},
+	"metallurgy:midasium_boots": {
+		"endurance": 15,
+		"agility": 15
+	},
+	"metallurgy:midasium_leggings": {
+		"endurance": 15,
+		"agility": 15
+	},
+	"metallurgy:midasium_chestplate": {
+		"endurance": 15,
+		"agility": 15
+	},
+	"metallurgy:midasium_helmet": {
+		"endurance": 15,
+		"agility": 15
+	},
+	"metallurgy:black_steel_helmet": {
+		"endurance": 15,
+		"agility": 15
+	},
+	"metallurgy:atlarus_chestplate": {
+		"endurance": 15,
+		"agility": 15
+	},
+	"metallurgy:atlarus_boots": {
+		"endurance": 15,
+		"agility": 15
+	},
+	"metallurgy:atlarus_leggings": {
+		"endurance": 15,
+		"agility": 15
+	},
+	"metallurgy:haderoth_chestplate": {
+		"endurance": 30,
+		"agility": 30
+	},
+	"metallurgy:haderoth_leggings": {
+		"endurance": 30,
+		"agility": 30
+	},
+	"metallurgy:haderoth_boots": {
+		"endurance": 30,
+		"agility": 30
+	},
+	"metallurgy:ceruclase_helmet": {
+		"endurance": 30,
+		"agility": 30
+	},
+	"metallurgy:astral_silver_boots": {
+		"endurance": 30,
+		"agility": 30
+	},
+	"metallurgy:astral_silver_leggings": {
+		"endurance": 30,
+		"agility": 30
+	},
+	"metallurgy:astral_silver_chestplate": {
+		"endurance": 30,
+		"agility": 30
+	},
+	"metallurgy:astral_silver_helmet": {
+		"endurance": 30,
+		"agility": 30
+	},
+	"metallurgy:ceruclase_leggings": {
+		"endurance": 30,
+		"agility": 30
+	},
+	"metallurgy:ceruclase_boots": {
+		"endurance": 30,
+		"agility": 30
+	},
+	"metallurgy:ceruclase_chestplate": {
+		"endurance": 30,
+		"agility": 30
+	},
+	"metallurgy:haderoth_helmet": {
+		"endurance": 30,
+		"agility": 30
+	},
+	"metallurgy:orichalcum_helmet": {
+		"endurance": 30,
+		"agility": 30
+	},
+	"metallurgy:orichalcum_chestplate": {
+		"endurance": 30,
+		"agility": 30
+	},
+	"metallurgy:orichalcum_leggings": {
+		"endurance": 30,
+		"agility": 30
+	},
+	"metallurgy:orichalcum_boots": {
+		"endurance": 30,
+		"agility": 30
+	},
+	"metallurgy:vyroxeres_helmet": {
+		"endurance": 30,
+		"agility": 30
+	},
+	"metallurgy:vyroxeres_chestplate": {
+		"endurance": 30,
+		"agility": 30
+	},
+	"metallurgy:vyroxeres_leggings": {
+		"endurance": 30,
+		"agility": 30
+	},
+	"metallurgy:vyroxeres_boots": {
+		"endurance": 30,
+		"agility": 30
+	},
+	"metallurgy:krik_helmet": {
+		"endurance": 30,
+		"agility": 30
+	},
+	"metallurgy:krik_chestplate": {
+		"endurance": 30,
+		"agility": 30
+	},
+	"metallurgy:krik_leggings": {
+		"endurance": 30,
+		"agility": 30
+	},
+	"metallurgy:krik_boots": {
+		"endurance": 30,
+		"agility": 30
+	},
+	"metallurgy:sanguinite_helmet": {
+		"endurance": 50,
+		"agility": 50
+	},
+	"metallurgy:sanguinite_chestplate": {
+		"endurance": 50,
+		"agility": 50
+	},
+	"metallurgy:sanguinite_leggings": {
+		"endurance": 50,
+		"agility": 50
+	},
+	"metallurgy:sanguinite_boots": {
+		"endurance": 50,
+		"agility": 50
+	},
+	"metallurgy:tartarite_helmet": {
+		"endurance": 50,
+		"agility": 50
+	},
+	"metallurgy:tartarite_chestplate": {
+		"endurance": 50,
+		"agility": 50
+	},
+	"metallurgy:tartarite_leggings": {
+		"endurance": 50,
+		"agility": 50
+	},
+	"metallurgy:tartarite_boots": {
+		"endurance": 50,
+		"agility": 50
+	},
+	"metallurgy:adamantine_helmet": {
+		"endurance": 50,
+		"agility": 50
+	},
+	"metallurgy:adamantine_chestplate": {
+		"endurance": 50,
+		"agility": 50
+	},
+	"metallurgy:adamantine_leggings": {
+		"endurance": 50,
+		"agility": 50
+	},
+	"metallurgy:adamantine_boots": {
+		"endurance": 50,
+		"agility": 50
+	},
+	"metallurgy:ignatius_helmet": {
+		"endurance": 50,
+		"agility": 50
+	},
+	"metallurgy:ignatius_chestplate": {
+		"endurance": 50,
+		"agility": 50
+	},
+	"metallurgy:ignatius_leggings": {
+		"endurance": 50,
+		"agility": 50
+	},
+	"metallurgy:ignatius_boots": {
+		"endurance": 50,
+		"agility": 50
+	},
+	"metallurgy:vulcanite_helmet": {
+		"endurance": 50,
+		"agility": 50
+	},
+	"metallurgy:vulcanite_chestplate": {
+		"endurance": 50,
+		"agility": 50
+	},
+	"metallurgy:vulcanite_leggings": {
+		"endurance": 50,
+		"agility": 50
+	},
+	"metallurgy:vulcanite_boots": {
+		"endurance": 50,
+		"agility": 50
+	},
+	"metallurgy:inolashite_helmet" : {
+		"endurance": 50,
+		"agility": 50
+	},
+	"metallurgy:inolashite_chestplate" : {
+		"endurance": 50,
+		"agility": 50
+	},
+	"metallurgy:inolashite_leggings" : {
+		"endurance": 50,
+		"agility": 50
+	},
+	"metallurgy:inolashite_boots" : {
+		"endurance": 50,
+		"agility": 50
+	},
+	"metallurgy:mithril_helmet" : {
+		"endurance": 50,
+		"agility": 50
+	},
+	"metallurgy:mithril_chestplate" : {
+		"endurance": 50,
+		"agility": 50
+	},
+	"metallurgy:mithril_leggings" : {
+		"endurance": 50,
+		"agility": 50
+	},
+	"metallurgy:mithril_boots" : {
+		"endurance": 50,
+		"agility": 50
+	},
+	"metallurgy:shadow_steel_helmet" : {
+		"endurance": 50,
+		"agility": 50
+	},
+	"metallurgy:shadow_steel_chestplate" : {
+		"endurance": 50,
+		"agility": 50
+	},
+	"metallurgy:shadow_steel_leggings" : {
+		"endurance": 50,
+		"agility": 50
+	},
+	"metallurgy:shadow_steel_boots" : {
+		"endurance": 50,
+		"agility": 50
+	},
+	"metallurgy:eximite_helmet" : {
+		"endurance": 50,
+		"agility": 50
+	},
+	"metallurgy:eximite_chestplate" : {
+		"endurance": 50,
+		"agility": 50
+	},
+	"metallurgy:eximite_leggings" : {
+		"endurance": 50,
+		"agility": 50
+	},
+	"metallurgy:eximite_boots" : {
+		"endurance": 50,
+		"agility": 50
+	},
+	"metallurgy:desichalkos_helmet" :{
+		"endurance": 80,
+		"agility": 80
+	},
+	"metallurgy:desichalkos_chestplate" :{
+		"endurance": 80,
+		"agility": 80
+	},
+	"metallurgy:desichalkos_leggings" :{
+		"endurance": 80,
+		"agility": 80
+	},
+	"metallurgy:desichalkos_boots" :{
+		"endurance": 80,
+		"agility": 80
+	},
+	"metallurgy:etherium_helmet" :{
+		"endurance": 80,
+		"agility": 80
+	},
+	"metallurgy:etherium_chestplate" :{
+		"endurance": 80,
+		"agility": 80
+	},
+	"metallurgy:etherium_leggings" :{
+		"endurance": 80,
+		"agility": 80
+	},
+	"metallurgy:etherium_boots" :{
+		"endurance": 80,
+		"agility": 80
+	},
+	"metallurgy:amordrine_helmet" :{
+		"endurance": 80,
+		"agility": 80
+	},
+	"metallurgy:amordrine_chestplate" :{
+		"endurance": 80,
+		"agility": 80
+	},
+	"metallurgy:amordrine_leggings" :{
+		"endurance": 80,
+		"agility": 80
+	},
+	"metallurgy:amordrine_boots" :{
+		"endurance": 80,
+		"agility": 80
+	}
+}

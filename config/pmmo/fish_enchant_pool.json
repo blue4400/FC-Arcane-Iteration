@@ -1,0 +1,10 @@
+{
+	"minecraft:bane_of_arthropods":
+	{
+		"levelReq": 15,
+		"levelPerLevel": 20,
+		"chancePerLevel": 1,
+		"maxChance": 90,
+		"maxLevel": 10
+	}
+}

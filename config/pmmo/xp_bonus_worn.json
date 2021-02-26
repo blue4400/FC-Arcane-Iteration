@@ -1,0 +1,7 @@
+{
+	"minecraft:golden_helmet":
+	{
+		"mining": 5,
+		"endurance": 5
+	}
+}

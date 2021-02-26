@@ -1,0 +1,8 @@
+{
+	"minecraft:plains":
+	{
+		"speedBonus": 0.75,
+		"hpBonus": 0.75,
+		"damageBonus": 0.75
+	}
+}

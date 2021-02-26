@@ -1,0 +1,11 @@
+{
+	"minecraft:leather_helmet":
+	{
+		"startWeight": 100,
+		"startLevel": 5,
+		"endWeight": 10,
+		"endLevel": 80,
+		"xp": 35,
+		"enchantLevelReq": 1
+	}
+}

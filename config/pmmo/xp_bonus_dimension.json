@@ -1,0 +1,10 @@
+{
+	"all_dimensions": {},
+	"1":
+	{
+		"flying": 50,
+		"combat": 20,
+		"archery": 50,
+		"endurance": 20
+	}
+}

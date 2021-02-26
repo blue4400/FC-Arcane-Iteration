@@ -1,0 +1,15 @@
+# Exclude files and directories in top directory
+/*
+
+# Whitelist
+!scripts/
+!config/
+!resources/
+!structures/
+!saves/
+!pillar/
+!ambience_music/
+!palettes/
+!perfectspawn.json
+!.gitignore
+!README.md

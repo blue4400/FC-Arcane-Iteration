@@ -1,0 +1,6 @@
+
+{
+  "Name": "CPM Male",
+  "Registry ID": "custommodel:custommodel.male",
+  "Class": "com.github.gamepiaynmo.custommodel.entity.CustomModelMaleNpc"
+}

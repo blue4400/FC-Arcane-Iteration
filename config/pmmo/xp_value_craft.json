@@ -1,0 +1,7 @@
+{
+	"minecraft:netherite_helmet":
+	{
+		"crafting": 1000,
+		"smithing": 200
+	}
+}

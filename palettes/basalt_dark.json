@@ -1,0 +1,125 @@
+{
+  "Palette": {
+    "OUTER_THICK": {
+      "Properties": {
+        "east": "false",
+        "south": "false",
+        "north": "false",
+        "west": "false",
+        "up": "false"
+      },
+      "Name": "quark:stone_basalt_bricks_wall"
+    },
+    "OUTER_FLAT": {
+      "Properties": {
+        "size": "small"
+      },
+      "Name": "quark:basalt_speleothem"
+    },
+    "INNER_PRIMARY": {
+      "Properties": {
+        "variation": "8"
+      },
+      "Name": "chisel:basalt1"
+    },
+    "HEAVY_POST": {
+      "Properties": {
+        "east": "false",
+        "south": "false",
+        "north": "false",
+        "west": "false",
+        "up": "false"
+      },
+      "Name": "quark:basalt_wall"
+    },
+    "ROOF_PRIMARY": {
+      "Properties": {
+        "player_placed": "true"
+      },
+      "Name": "iceandfire:dread_stone"
+    },
+    "INNER_DETAIL": {
+      "Properties": {
+        "variant": "basalt"
+      },
+      "Name": "cathedral:cathedral_pillar_various"
+    },
+    "ROOF_SLAB": {
+      "Properties": {
+        "half": "bottom",
+        "prop": "blarg"
+      },
+      "Name": "quark:stone_basalt_bricks_slab"
+    },
+    "WINDOW": {
+      "Properties": {
+        "east": "true",
+        "south": "true",
+        "north": "true",
+        "west": "true",
+        "variation": "0"
+      },
+      "Name": "chisel:glasspanedyedblack"
+    },
+    "Name": "Basalt Dark",
+    "HEAVY_PRIMARY": {
+      "Properties": {
+        "variant": "paver"
+      },
+      "Name": "cathedral:basalt_block_carved"
+    },
+    "FLOOR": {
+      "Properties": {
+        "player_placed": "true"
+      },
+      "Name": "iceandfire:dreadwood_planks"
+    },
+    "HEAVY_SECONDARY": {
+      "Properties": {
+        "variant": "sunken"
+      },
+      "Name": "cathedral:basalt_block_carved"
+    },
+    "ROOF_DETAIL": {
+      "Properties": {
+        "variant": "stone_basalt_bricks"
+      },
+      "Name": "quark:world_stone_bricks"
+    },
+    "INNER_SECONDARY": {
+      "Properties": {
+        "variant": "vault"
+      },
+      "Name": "cathedral:basalt_block_carved"
+    },
+    "OUTER_SLAB": {
+      "Properties": {
+        "half": "bottom",
+        "prop": "blarg"
+      },
+      "Name": "quark:stone_basalt_slab"
+    },
+    "HEAVY_WINDOW": {
+      "Properties": {
+        "east": "true",
+        "south": "true",
+        "north": "true",
+        "west": "true",
+        "variation": "0"
+      },
+      "Name": "chisel:glasspanedyedblack"
+    },
+    "CLEAR": {
+      "Properties": {
+        "color": "red"
+      },
+      "Name": "minecraft:stained_glass"
+    },
+    "OUTER_THIN": {
+      "Properties": {
+        "variant": "basalt"
+      },
+      "Name": "cathedral:cathedral_pillar_various"
+    }
+  }
+}

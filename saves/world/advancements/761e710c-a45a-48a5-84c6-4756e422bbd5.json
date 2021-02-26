@@ -1,0 +1,32 @@
+{
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2021-02-21 22:46:00 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2021-02-21 22:45:59 -0500"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2021-02-21 22:46:00 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2021-02-21 22:45:59 -0500"
+    },
+    "done": true
+  },
+  "cavern:ore_compass": {
+    "criteria": {
+      "ore_compass": "2021-02-21 23:03:32 -0500"
+    },
+    "done": true
+  }
+}

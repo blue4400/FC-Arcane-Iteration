@@ -1,0 +1,416 @@
+{
+	"spartanweaponry:dagger_stone": {
+		"aim": 5
+	},
+	"spartanweaponry:throwing_knife_stone": {
+		"aim": 5
+	},
+	"spartanweaponry:throwing_axe_stone": {
+		"aim": 5
+	},
+	"spartanweaponry:javelin_stone": {
+		"aim": 5
+	},
+	"spartanweaponry:boomerang_stone": {
+		"aim": 5
+	},
+	"spartanweaponry:dagger_iron": {
+		"aim": 15
+	},
+	"spartanweaponry:throwing_knife_iron": {
+		"aim": 15
+	},
+	"spartanweaponry:throwing_axe_iron": {
+		"aim": 15
+	},
+	"spartanweaponry:javelin_iron": {
+		"aim": 15
+	},
+	"spartanweaponry:boomerang_iron": {
+		"aim": 15
+	},
+	"spartanweaponry:dagger_gold": {
+		"aim": 12
+	},
+	"spartanweaponry:throwing_knife_gold": {
+		"aim": 12
+	},
+	"spartanweaponry:throwing_axe_gold": {
+		"aim": 12
+	},
+	"spartanweaponry:javelin_gold": {
+		"aim": 12
+	},
+	"spartanweaponry:boomerang_gold": {
+		"aim": 12
+	},
+	"spartanweaponry:dagger_diamond": {
+		"aim": 28
+	},
+	"spartanweaponry:throwing_knife_diamond": {
+		"aim": 28
+	},
+	"spartanweaponry:throwing_axe_diamond": {
+		"aim": 28
+	},
+	"spartanweaponry:javelin_diamond": {
+		"aim": 28
+	},
+	"spartanweaponry:boomerang_diamond": {
+		"aim": 28
+	},
+	"spartanweaponry:dagger_copper": {
+		"aim": 10
+	},
+	"spartanweaponry:throwing_knife_copper": {
+		"aim": 10
+	},
+	"spartanweaponry:throwing_axe_copper": {
+		"aim": 10
+	},
+	"spartanweaponry:javelin_copper": {
+		"aim": 10
+	},
+	"spartanweaponry:boomerang_copper": {
+		"aim": 10
+	},
+	"spartanweaponry:dagger_tin": {
+		"aim": 12
+	},
+	"spartanweaponry:throwing_knife_tin": {
+		"aim": 12
+	},
+	"spartanweaponry:throwing_axe_tin": {
+		"aim": 12
+	},
+	"spartanweaponry:javelin_tin": {
+		"aim": 12
+	},
+	"spartanweaponry:boomerang_tin": {
+		"aim": 12
+	},
+	"spartanweaponry:dagger_bronze": {
+		"aim": 18
+	},
+	"spartanweaponry:throwing_knife_bronze": {
+		"aim": 18
+	},
+	"spartanweaponry:throwing_axe_bronze": {
+		"aim": 18
+	},
+	"spartanweaponry:javelin_bronze": {
+		"aim": 18
+	},
+	"spartanweaponry:boomerang_bronze": {
+		"aim": 18
+	},
+	"spartanweaponry:dagger_silver": {
+		"aim": 25
+	},
+	"spartanweaponry:throwing_knife_silver": {
+		"aim": 25
+	},
+	"spartanweaponry:throwing_axe_silver": {
+		"aim": 25
+	},
+	"spartanweaponry:javelin_silver": {
+		"aim": 25
+	},
+	"spartanweaponry:boomerang_silver": {
+		"aim": 25
+	},
+	"spartanweaponry:dagger_electrum": {
+		"aim": 25
+	},
+	"spartanweaponry:throwing_knife_electrum": {
+		"aim": 25
+	},
+	"spartanweaponry:throwing_axe_electrum": {
+		"aim": 25
+	},
+	"spartanweaponry:javelin_electrum": {
+		"aim": 25
+	},
+	"spartanweaponry:boomerang_electrum": {
+		"aim": 25
+	},
+	"spartanweaponry:dagger_nickel": {
+		"aim": 15
+	},
+	"spartanweaponry:throwing_knife_nickel": {
+		"aim": 15
+	},
+	"spartanweaponry:throwing_axe_nickel": {
+		"aim": 15
+	},
+	"spartanweaponry:javelin_nickel": {
+		"aim": 15
+	},
+	"spartanweaponry:boomerang_nickel": {
+		"aim": 15
+	},
+	"spartanweaponry:dagger_lead": {
+		"aim": 15
+	},
+	"spartanweaponry:throwing_knife_lead": {
+		"aim": 15
+	},
+	"spartanweaponry:throwing_axe_lead": {
+		"aim": 15
+	},
+	"spartanweaponry:javelin_lead": {
+		"aim": 15
+	},
+	"spartanweaponry:boomerang_lead": {
+		"aim": 15
+	},
+	"spartanfire:dagger_dragonbone": {
+		"aim": 35
+	},
+	"spartanfire:throwing_knife_dragonbone": {
+		"aim": 35
+	},
+	"spartanfire:throwing_axe_dragonbone": {
+		"aim": 35
+	},
+	"spartanfire:javelin_dragonbone": {
+		"aim": 35
+	},
+	"spartanfire:boomerang_dragonbone": {
+		"aim": 35
+	},
+	"spartanfire:dagger_ice_dragonbone": {
+		"aim": 45
+	},
+	"spartanfire:throwing_knife_ice_dragonbone": {
+		"aim": 45
+	},
+	"spartanfire:throwing_axe_ice_dragonbone": {
+		"aim": 45
+	},
+	"spartanfire:javelin_ice_dragonbone": {
+		"aim": 45
+	},
+	"spartanfire:boomerang_ice_dragonbone": {
+		"aim": 45
+	},
+	"spartanfire:dagger_fire_dragonbone": {
+		"aim": 45
+	},
+	"spartanfire:throwing_knife_fire_dragonbone": {
+		"aim": 45
+	},
+	"spartanfire:throwing_axe_fire_dragonbone": {
+		"aim": 45
+	},
+	"spartanfire:javelin_fire_dragonbone": {
+		"aim": 45
+	},
+	"spartanfire:boomerang_fire_dragonbone": {
+		"aim": 45
+	},
+	"spartanfire:dagger_jungle": {
+		"aim": 17
+	},
+	"spartanfire:throwing_knife_jungle": {
+		"aim": 17
+	},
+	"spartanfire:throwing_axe_jungle": {
+		"aim": 17
+	},
+	"spartanfire:javelin_jungle": {
+		"aim": 17
+	},
+	"spartanfire:boomerang_jungle": {
+		"aim": 17
+	},
+	"spartanfire:dagger_desert": {
+		"aim": 17
+	},
+	"spartanfire:throwing_knife_desert": {
+		"aim": 17
+	},
+	"spartanfire:throwing_axe_desert": {
+		"aim": 17
+	},
+	"spartanfire:javelin_desert": {
+		"aim": 17
+	},
+	"spartanfire:boomerang_desert": {
+		"aim": 17
+	},
+	"spartanfire:dagger_jungle_venom": {
+		"aim": 19
+	},
+	"spartanfire:throwing_knife_jungle_venom": {
+		"aim": 19
+	},
+	"spartanfire:throwing_axe_jungle_venom": {
+		"aim": 19
+	},
+	"spartanfire:javelin_jungle_venom": {
+		"aim": 19
+	},
+	"spartanfire:boomerang_jungle_venom": {
+		"aim": 19
+	},
+	"spartanfire:dagger_desert_venom": {
+		"aim": 19
+	},
+	"spartanfire:throwing_knife_desert_venom": {
+		"aim": 19
+	},
+	"spartanfire:throwing_axe_desert_venom": {
+		"aim": 19
+	},
+	"spartanfire:javelin_desert_venom": {
+		"aim": 19
+	},
+	"spartanfire:boomerang_desert_venom": {
+		"aim": 19
+	},
+	"spartanfire:dagger_ice_dragonsteel": {
+		"aim": 55
+	},
+	"spartanfire:throwing_knife_ice_dragonsteel": {
+		"aim": 55
+	},
+	"spartanfire:throwing_axe_ice_dragonsteel": {
+		"aim": 55
+	},
+	"spartanfire:javelin_ice_dragonsteel": {
+		"aim": 55
+	},
+	"spartanfire:boomerang_ice_dragonsteel": {
+		"aim": 55
+	},
+	"spartanfire:dagger_fire_dragonsteel": {
+		"aim": 55
+	},
+	"spartanfire:throwing_knife_fire_dragonsteel": {
+		"aim": 55
+	},
+	"spartanfire:throwing_axe_fire_dragonsteel": {
+		"aim": 55
+	},
+	"spartanfire:javelin_fire_dragonsteel": {
+		"aim": 55
+	},
+	"spartanfire:boomerang_fire_dragonsteel": {
+		"aim": 55
+	},
+	"spartanfire:longbow_dragonbone": {
+		"archery": 35
+	},
+	"spartanfire:crossbow_desert": {
+		"archery": 17
+	},
+	"spartanfire:longbow_jungle_venom": {
+		"archery": 19
+	},
+	"spartanfire:crossbow_jungle_venom": {
+		"archery": 19
+	},
+	"spartanfire:longbow_desert_venom": {
+		"archery": 19
+	},
+	"spartanfire:crossbow_desert_venom": {
+		"archery": 19
+	},
+	"spartanfire:longbow_ice_dragonsteel": {
+		"archery": 55
+	},
+	"spartanfire:crossbow_ice_dragonsteel": {
+		"archery": 55
+	},
+	"spartanfire:longbow_fire_dragonsteel": {
+		"archery": 5
+	},
+	"spartanfire:crossbow_fire_dragonsteel": {
+		"archery": 55
+	},
+	"spartanweaponry:longbow_leather": {
+		"archery": 2
+	},
+	"spartanweaponry:longbow_iron": {
+		"archery": 15
+	},
+	"spartanweaponry:longbow_diamond": {
+		"archery": 28
+	},
+	"spartanweaponry:crossbow_leather": {
+		"archery": 2
+	},
+	"spartanweaponry:crossbow_iron": {
+		"archery": 15
+	},
+	"spartanweaponry:crossbow_diamond": {
+		"archery": 28
+	},
+	"spartanfire:crossbow_dragonbone": {
+		"archery": 35
+	},
+	"spartanfire:longbow_fire_dragonbone": {
+		"archery": 45
+	},
+	"spartanfire:crossbow_fire_dragonbone": {
+		"archery": 45
+	},
+	"spartanfire:longbow_ice_dragonbone": {
+		"archery": 45
+	},
+	"spartanfire:crossbow_ice_dragonbone": {
+		"archery": 45
+	},
+	"spartanfire:longbow_jungle": {
+		"archery": 17
+	},
+	"spartanfire:crossbow_jungle": {
+		"archery": 17
+	},
+	"spartanfire:longbow_desert": {
+		"archery": 17
+	},
+	"spartanweaponry:dagger_steel": {
+		"aim": 20
+	},
+	"spartanweaponry:throwing_knife_steel": {
+		"aim": 20
+	},
+	"spartanweaponry:throwing_axe_steel": {
+		"aim": 20
+	},
+	"spartanweaponry:javelin_steel": {
+		"aim": 20
+	},
+	"spartanweaponry:boomerang_steel": {
+		"aim": 20
+	},
+	"spartanweaponry:dagger_platinum": {
+		"aim": 30
+	},
+	"spartanweaponry:throwing_knife_platinum": {
+		"aim": 30
+	},
+	"spartanweaponry:throwing_axe_platinum": {
+		"aim": 30
+	},
+	"spartanweaponry:javelin_platinum": {
+		"aim": 30
+	},
+	"spartanweaponry:boomerang_platinum": {
+		"aim": 30
+	},
+	"spartanweaponry:longbow_steel": {
+		"archery": 20
+	},
+	"spartanweaponry:crossbow_steel": {
+		"archery": 20
+	},
+	"spartanweaponry:longbow_platinum": {
+		"archery": 30
+	},
+	"spartanweaponry:crossbow_platinum": {
+		"archery": 30
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"minecraft:jungle":
+	{
+		"minecraft:slowness": 0,
+		"minecraft:weakness": 0
+	}
+}

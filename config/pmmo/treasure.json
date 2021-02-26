@@ -1,0 +1,15 @@
+{
+	"minecraft:magma_block":
+	{
+		"minecraft:magma_cream":
+		{
+			"startChance": 0.1,
+			"startLevel": 25,
+			"endChance": 1,
+			"endLevel": 150,
+			"xpPerItem": 12.5,
+			"minCount": 1,
+			"maxCount": 2
+		}
+	}
+}

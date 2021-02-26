@@ -1,0 +1,14 @@
+{
+	"minecraft:diamond_helmet":
+	{
+		"minecraft:diamond":
+		{
+			"salvageMax": 5,
+			"baseChance": 0.5,
+			"chancePerLevel": 0.5,
+			"maxChance": 80,
+			"xpPerItem": 75,
+			"levelReq": 40
+		}
+	}
+}
